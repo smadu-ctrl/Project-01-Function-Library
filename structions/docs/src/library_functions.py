@@ -10,7 +10,7 @@ Classes:
 - TrendAnalyzer       : aggregate/weekly analysis utilities (top posts, filtering)
 - SemesterReporter    : reporting & export helpers (CSV generation / summary)
 
-Author: Your Name
+
 """
 from __future__ import annotations
 from dataclasses import dataclass, field
